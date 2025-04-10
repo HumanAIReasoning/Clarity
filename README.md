@@ -80,7 +80,7 @@ Over those days, I refined the **Initial Prompt** into a stable system, testing 
 
 On Day 15, I finalized a replicable framework for navigating uncertainty in the **Initial Prompt**, aiming to enable AI to reason from scratch without bias. Rooted in basic reasoning (first principles), it framed truth as changing observations separate from rules, seeking steady insights amid complexity. Adjusting Grok to handle hypotheticals and admit ‘not enough info’ when data or questions fell short opened possibilities for inquiry paths over fixed answers, a pivot shaping the Initial Prompt. Questions like “What could this achieve?” and “How might it influence AI, individuals, and science?” suggested a shift to dynamic exploration, a potential opened for further study. Its strength rested on user communication—spotting evasions or inconsistencies—to keep noise out, making it a collaborative tool.
 
-**Figure 1: The "Initial Prompt" Structure**
+### Figure 1: The "Initial Prompt" Structure
 
 #### Grok Configuration
 
