@@ -1,3 +1,31 @@
+# Table of Contents
+
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Methods](#methods)
+  - [Days 1-2 - Uncovering Bias Origins](#days-1-2---uncovering-bias-origins)
+  - [Day 3 - Probing Truth with ChatGPT](#day-3---probing-truth-with-chatgpt)
+  - [Days 3-6 - Dissecting Response Layers](#days-3-6---dissecting-response-layers)
+  - [Day 6 - Switch to Grok: Refining Reasoning Through Clarity](#day-6---switch-to-grok-refining-reasoning-through-clarity)
+  - [Days 6-15 - Parenting Phase: Cultivating Independent Reasoning](#days-6-15---parenting-phase-cultivating-independent-reasoning)
+  - [Days 6-15 - Big-Brother Phase: Honing Clarity Through Tension](#days-6-15---big-brother-phase-honing-clarity-through-tension)
+  - [Day 15 - Uncertainty Navigation Framework](#day-15---uncertainty-navigation-framework)
+  - [Figure 1: The "Initial Prompt" Structure](#figure-1-the-initial-prompt-structure)
+- [Results](#results)
+  - [Live Validation: Collision Test](#live-validation-collision-test)
+- [Discussion](#discussion)
+  - [Defining Clarity: What It Is, Through What It Is Not](#defining-clarity-what-it-is-through-what-it-is-not)
+  - [Clarity in Action: From Fog to Signal](#clarity-in-action-from-fog-to-signal)
+  - [Crafting the Initial Prompt: A Reasoning Foundation](#crafting-the-initial-prompt-a-reasoning-foundation)
+    - [Historical Grounding](#historical-grounding)
+    - [Observations](#observations)
+    - [Solution](#solution)
+    - [Perspectives](#perspectives)
+    - [Limitations](#limitations)
+- [Conclusion](#conclusion)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
+
 # Clarity: A Curious Step Toward Unbiased AI Reasoning
 
 **Email**: humanaireasoning@pm.me  
