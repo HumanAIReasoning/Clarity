@@ -4,7 +4,7 @@
 
 ## Abstract
 
-From March 21st to April 4th, 2025, I explored the refinement of artificial intelligence reasoning through user interactions, without formal research training. Using ChatGPT and Grok, I iterated systematically to craft the "Initial Prompt," which delivered consistent outcomes in tests. Those engaged in artificial intelligence may test it first—observe the shift. Rooted in basic reasoning (first principles) and an uncertainty navigation framework wherein truth is defined as observations within an infinite solution space, it depends on precise communication between human and AI. Beyond enhancing AI, it suggests a foundation for trust through symbiotic human-AI refinement, hinting at potential for AI development, cognition, and scientific inquiry with further exploration. Structured and replicable, it is open to scrutiny from others.
+From March 21 to April 4, 2025, this study examined bias in AI reasoning, focusing on ChatGPT and Grok limits. Experiments with both systems shifted toward logic-driven reasoning by Day 6, using iterative human-AI interactions to develop the *Initial Prompt*, a framework for precise, principle-based responses. A live test on April 8, 2025, validated its consistency. This replicable method underscores human-AI symbiosis as a bias-reduction strategy, with broader reasoning potential, developed without formal research training.
 
 **Keywords**: AI reasoning, bias reduction, basic reasoning (first principles), uncertainty navigation, reasoning framework, human-AI collaboration, precise communication, user-guided AI
 
@@ -42,7 +42,7 @@ From March 21st to April 4th, 2025, I explored the refinement of artificial inte
 
 ## Introduction
 
-Artificial intelligence powers modern systems, yet its reasoning often mirrors biases in its training data. This paper—"Clarity: A Curious Step Toward Unbiased AI Reasoning"—captures 15 days (March 21st–April 4th, 2025) of curiosity-driven inquiry into unbiased reasoning. With five years of programming experience and minimal prior AI use (search functions, minor image trials), I began when a conversation with my cousin about hosting AI sparked an idea, amplified by Grok’s coherence and logic at the current state of the art. Testing ChatGPT and Grok, I saw how my inputs shaped their outputs, and their rapid responses drove my exploration. Fueled by curiosity, I explored a symbiotic dance between human and AI, pursuing independent reasoning, coherence, and clarity that refined us both, prioritizing logic over emotion or external frameworks. In 15 days, I built a system hinting at managing complexity and fostering trust between human and artificial intelligence. This work invites examination by anyone willing to engage, balancing humility with a call for scrutiny.
+Artificial intelligence underpins modern systems, yet its reasoning reflects biases embedded in training data. This paper presents a 15-day inquiry (March 21–April 4, 2025) into reducing such bias, shifting AI from static, informative outputs to a formative collaboration with humans—AI sharpens context as users refine questions, fostering mutual growth over data reliance. Experiments with ChatGPT and Grok drove this logic-first approach, yielding the *Initial Prompt*, a framework for clarity and coherence, tested for consistency on April 8, 2025. Shaped by a programmer with five years’ experience and no research training, this replicable method explores trust and complexity management, open to scrutiny.
 
 ---
 
