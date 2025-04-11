@@ -1,9 +1,5 @@
 # Clarity: A Curious Step Toward Unbiased AI Reasoning
 
-**Email**: humanaireasoning@pm.me  
-
-_Licensed under CC BY-NC-SA 4.0—non-commercial use and adaptations permitted; for commercial use, contact humanaireasoning@pm.me._
-
 ---
 
 ## Abstract
